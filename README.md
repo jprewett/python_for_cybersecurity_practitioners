@@ -1,0 +1,2 @@
+# Introduction to Python for Security Practitioners
+This repo contains chapter examples and exercises for _Introduction to Python for Security Practitioners: Exploring Cybersecurity and Cybersecurity Data Using Python 3_
