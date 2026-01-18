@@ -1,0 +1,3 @@
+1.	Visit the NVD at https://nvd.nist.gov/.  How many vulnerabilities were announced/released within the last week?
+
+2.	From the NVD, select any vulnerability with a published CVSS score and note its Vectors.  Next, visit the CVSS calculator at https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator.  Using the CVE’s Vector information, re-create and confirm the CVE’s CVSS score published on the NVD website.

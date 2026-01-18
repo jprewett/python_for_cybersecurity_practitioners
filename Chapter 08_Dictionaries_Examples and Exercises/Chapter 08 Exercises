@@ -1,0 +1,10 @@
+1.	Create a program that iterates over the following Dictionary and identifies when a Critical vulnerability is detected.
+
+    vulnerability_data = {'CVE-2019-0708': 9.8, 'CVE-2024-47104': 6.8, 'CVE-2015-1261': 5.0}
+
+2.	A new vulnerability has been reported by a vendor and has been assigned the identifier CVE-2025-99999 in the CVE system with a CVSS score of 7.7.  Add this CVE to the above Dictionary.
+
+3.	Relying on the concept of nesting, convert the following two Variables into a single Dictionary:
+
+    vendors = ['Microsoft', 'IBM', 'Google']
+    vulnerability_data = {'CVE-2019-0708': 9.8, 'CVE-2024-47104': 6.8, 'CVE-2015-1261': 5.0}

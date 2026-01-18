@@ -1,0 +1,14 @@
+1.	In a Python interpreter or IDE editor (like PyCharm), create the following Variables and their assignments:
+
+    prefix = 'CVE'
+    delimiter = '-'
+    year = '2025'
+    identifier = '21333'
+
+    a.	Concatenate all the above Variables and assign the result into a well-named Variable where the result is CVE-2025-21333.
+    b.	Print the result.
+    c.	Print the resulting data type.
+
+2.	Remove the quotation marks from 2025 and/or 21333 (see above).
+    a.	Via the simple process of removing the quotation marks, what data type is created?
+    b.	Retry concatenation with the new data type.  What happens?  Why?

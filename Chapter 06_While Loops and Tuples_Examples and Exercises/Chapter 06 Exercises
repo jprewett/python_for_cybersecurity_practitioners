@@ -1,0 +1,19 @@
+1.	Tuple Mutability:
+    a.	Create the following Variable and its assignment:
+
+    new_cve = 'CVE-2016-1671'
+
+    b.	Append the Variable to the following Tuple:
+
+    cves_impacting_chrome = ('CVE-2022-4440', 'CVE-2025-0438', 'CVE-2024-8636',
+                             'CVE-2022-0801', 'CVE-2019-5814', 'CVE-2025-0436',
+                             'CVE-2019-13736', 'CVE-2015-8664', 'CVE-2022-4181',
+                             'CVE-2015-1290', 'CVE-2024-7981')
+
+    c.	What happened and why?
+
+2.	The following code block has a couple of problematic issues.  Provide all necessary corrections to (A) get the code block to an executable state and (B) alleviate the Infinite Loop:
+
+    all_cve_severity_scores = (8.3, 'TBD', 8.8, 6.5, 4.3, 'TBD', 6.3, 6.3, 8.8, 8.8, 6.5)
+    while count < all_cve_severity_scores:
+        print(all_cve_severity_scores[count])

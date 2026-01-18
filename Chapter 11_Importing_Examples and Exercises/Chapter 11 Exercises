@@ -1,0 +1,14 @@
+1.	The organization for which we work provides the following remediation timelines and expectations, as set forth in their internal policies and standards:
+
+    Vulnerability Remediation Timelines
+    Critical = 15 days
+    High = 30 days
+    Medium = 60 days
+    Low = 90 days
+    Note = 180 days
+
+    a)	Write a program that captures the current date/time.  Assume this is the first found date when a collection of vulnerabilities was discovered.
+
+    b)	Using a combination of Iteration and Conditional Execution, Loop over the List below and calculate the future date when vulnerability remediation for each severity level will be past due (i.e., exceed the internal policies and standards relative to vulnerability remediation).
+
+    severity_levels = ['critical', 'high', 'medium', 'low', 'note']

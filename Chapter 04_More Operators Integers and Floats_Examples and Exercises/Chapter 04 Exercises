@@ -1,0 +1,11 @@
+1.	The following code block is flawed (i.e., it will successfully execute, but the result will be mathematically inaccurate).  Apply PEMDAS principles to correct the code and print an accurate result.
+
+    first_cvss_score = 9.2
+    second_cvss_score = 8.8
+    third_cvss_score = 7.3
+    average_cvss_score = first_cvss_score + second_cvss_score + third_cvss_score / 3
+    print(average_cvss_score)
+
+2.	When corrected, the above code block prints a Float data type with multiple digits following the decimal point.
+    a.	However, following CVSS scoring methodology, only one digit should follow the decimal point.
+    b.	Research Python's round() method and apply it to the above code block such that only one digit remains after the decimal point.
